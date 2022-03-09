@@ -7,7 +7,7 @@ fun main() {
 
 
     //use todays date as the start date by using the imported java.time.LocalDate Library
-    val start = LocalDate.of(2022, 3, 6)
+    val start = LocalDate.of(2022, 3, 9w)
     //use the due date as the end date
     val end = LocalDate.of(2022, 5, 22)
     //this function takes the start date and the end date and finds the number of days inbetween
