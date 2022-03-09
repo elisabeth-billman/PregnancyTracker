@@ -15,7 +15,6 @@ This program is written in the Kotlin language. It is run using the java.time.Lo
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [kotlinlang.org]( https://kotlinlang.org/docs/functions.html)
 * [programiz.com]( https://www.programiz.com/kotlin-programming/if-expression)
 
